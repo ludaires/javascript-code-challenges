@@ -1,3 +1,4 @@
+// SEEING AT UBER'S CODE CHALLENGES
 // You a function that receives a num. You should return the diff between the multiplication and the sum of the number
 // solve(12345) => 105
 // Multiple (1*2*3*4*5) -  Sum(1+2+3+4+5)
@@ -20,7 +21,6 @@ function solve(n) {
   }, 0);
 
  return (multiple - total);
-
 
 }
     

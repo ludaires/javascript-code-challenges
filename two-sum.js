@@ -56,8 +56,3 @@ const nums = [2,7,11,15];
 const result = twoSum(nums, 9);
 console.log(result);
 
-[2,7,11,15]
-9
-
-// [3,2,4]
-// 6
