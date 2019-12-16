@@ -12,3 +12,7 @@ let getMiddle = function(n) {
 console.log(getMiddle('Lud'));
 
 console.log(getMiddle('Daniel'));
+
+// setInterval() 
+// setTimeout()
+

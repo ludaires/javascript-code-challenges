@@ -12,3 +12,8 @@ function uniqString (str) {
 }
 
 console.log(uniqString('This is is a test test'))
+
+// function removeDuplicates(str) {
+//     const arr = str.split(' ');
+//     return [...new Set(arr)].join(' ');
+// }
